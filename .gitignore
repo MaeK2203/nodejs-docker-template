@@ -1,3 +1,3 @@
 .idea
-nodejs-docker-template.iml
-node_modules
+.iml
+server/node_modules
